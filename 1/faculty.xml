@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fc:faculties xmlns:fc="http://nure.ua/honcharenkoilchishen/faculty"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fc:faculty id="0">
+    <fc:title>a</fc:title>
+    <fc:shortTitle>KN</fc:shortTitle>
+    <fc:placeCount>0</fc:placeCount>
+    <fc:budgetPlaceCount>0</fc:budgetPlaceCount>
+  </fc:faculty>
+</fc:faculties>
